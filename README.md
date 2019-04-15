@@ -1,27 +1,11 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
-
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
-
-## Getting Started
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+PROG8185 - Assignment #1C# ASP.NET Web-App for a new mobile business which includes
+1)A loading page and a favicon with the business logo.
+2)A mobile menu that uses a jQuery library and contains links to every page within yourapp  (Including the homepage and the Admin login page)
+3)A home page with message board content (images and text) which any user can view4)A login page with a login, password field for the admin to logina
+4)An edit content screen that lets the admin add or remove postsb)Show a confirmation pop-up when the admin wants to delete a post
+5)A Responsive HTML/CSS/Javascript design so it works on mobile, tablet and desktopscreens
+6)A mobile action from a mobile touch gesture. Example switching pages when the usersswipes right or left from the homepage
+7)A page about the mobile business which any user can view
+8)A page with a form to join the mailing list which any user can view
+9)A page with a form to submit comments and feedback to the admin
+10)The admin login info, image names, comments, feedback and mailing list entries shouldall be stored in separate text files or database tables
